@@ -334,6 +334,24 @@
       "country": "Brasil",
       "state": "Minas Gerais",
       "city": "Juiz de Fora"
+    },
+    {
+      "name": "Rádio Onda Norte FM 103.9 - Janaúba",
+      "streamUrl": "https://stm2.streamproarte.com.br:7370/stream",
+      "logoUrl": "",
+      "genre": "Sertaneja / Regional",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Janaúba"
+    },
+    {
+      "name": "Rádio Torre FM 91.7 - Janaúba",
+      "streamUrl": "https://r11.ciclano.io/proxy/radiotor/stream",
+      "logoUrl": "",
+      "genre": "Pop / Sertanejo",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Janaúba"
     }
   ],
   "rules": {
