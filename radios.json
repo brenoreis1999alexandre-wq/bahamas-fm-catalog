@@ -253,6 +253,15 @@
       "country": "Brasil",
       "state": "Paraiba",
       "city": ""
+    },
+    {
+      "name": "Rádio 98 FM Montes Claros 98.9",
+      "streamUrl": "https://str1.streamhostpg.com.br:8046/stream",
+      "logoUrl": "https://www.montesclaros.com/imagens19/logo_98.png",
+      "genre": "Popular / Hits",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Montes Claros"
     }
   ],
   "rules": {
