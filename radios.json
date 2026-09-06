@@ -3,13 +3,13 @@
   "updated_at": "2026-09-06",
   "stations": [
     {
-      "name": "Hunter.FM - O Canal Sertanejo",
-      "streamUrl": "https://live.hunter.fm/sertanejo_normal",
-      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
-      "genre": "",
+      "name": "Rádio Mix FM São Paulo",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
+      "logoUrl": "",
+      "genre": "Pop / Hits",
       "country": "Brasil",
       "state": "São Paulo",
-      "city": ""
+      "city": "São Paulo"
     },
     {
       "name": "Hunter FM - Pagode",
@@ -48,6 +48,33 @@
       "city": "Montes Claros"
     },
     {
+      "name": "Hunter.FM - O Canal Sertanejo",
+      "streamUrl": "https://live.hunter.fm/sertanejo_normal",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Rádio Educadora Montes Claros 102.9",
+      "streamUrl": "https://8228.brasilstream.com.br/stream",
+      "logoUrl": "",
+      "genre": "Sertaneja / Popular",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Montes Claros"
+    },
+    {
+      "name": "Rádio FM O Dia 99.7 FM",
+      "streamUrl": "https://wz7.servidoresbrasil.com:8274/stream",
+      "logoUrl": "https://img.radios.com.br/radio/lg/radio229211_1706128532.jpeg",
+      "genre": "Pagode",
+      "country": "Brasil",
+      "state": "Rio de Janeiro",
+      "city": ""
+    },
+    {
       "name": "Hunter.fm O Canal Lo-Fi (High)",
       "streamUrl": "https://live.hunter.fm/lofi_high",
       "logoUrl": "https://hunter.fm/favicon.ico",
@@ -63,15 +90,6 @@
       "genre": "sertaneja,sertanejo",
       "country": "Brasil",
       "state": "Distrito Federal",
-      "city": ""
-    },
-    {
-      "name": "Rádio FM O Dia 99.7 FM",
-      "streamUrl": "https://wz7.servidoresbrasil.com:8274/stream",
-      "logoUrl": "https://img.radios.com.br/radio/lg/radio229211_1706128532.jpeg",
-      "genre": "Pagode",
-      "country": "Brasil",
-      "state": "Rio de Janeiro",
       "city": ""
     },
     {
@@ -183,15 +201,6 @@
       "city": ""
     },
     {
-      "name": "Rádio Educadora Montes Claros 102.9",
-      "streamUrl": "https://8228.brasilstream.com.br/stream",
-      "logoUrl": "",
-      "genre": "Sertaneja / Popular",
-      "country": "Brasil",
-      "state": "Minas Gerais",
-      "city": "Montes Claros"
-    },
-    {
       "name": "Sucesso FM 88,3",
       "streamUrl": "https://servidor36.brlogic.com:8300/live?1696916321806",
       "logoUrl": "https://public-rf-upload.minhawebradio.net/17549/program/7d841a5fa803032a7e8656166559739f.jpg",
@@ -298,15 +307,6 @@
       "country": "Brasil",
       "state": "São Paulo",
       "city": ""
-    },
-    {
-      "name": "Rádio Mix FM São Paulo",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
-      "logoUrl": "",
-      "genre": "Pop / Hits",
-      "country": "Brasil",
-      "state": "São Paulo",
-      "city": "São Paulo"
     },
     {
       "name": "Rádio Mix FM Belo Horizonte",
