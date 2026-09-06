@@ -48,6 +48,15 @@
       "city": "Montes Claros"
     },
     {
+      "name": "Rádio POP 95.1 FM Montes Claros",
+      "streamUrl": "https://8524.brasilstream.com.br/stream?origem=site",
+      "logoUrl": "",
+      "genre": "Pop / Rock",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Montes Claros"
+    },
+    {
       "name": "Hunter.FM - O Canal Sertanejo",
       "streamUrl": "https://live.hunter.fm/sertanejo_normal",
       "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
