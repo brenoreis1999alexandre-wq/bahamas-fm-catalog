@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-09-05",
+  "updated_at": "2026-09-06",
   "stations": [
     {
       "name": "Hunter.FM - O Canal Sertanejo",
@@ -9,15 +9,6 @@
       "genre": "",
       "country": "Brasil",
       "state": "São Paulo",
-      "city": ""
-    },
-    {
-      "name": "Hunter.fm O Canal Lo-Fi (High)",
-      "streamUrl": "https://live.hunter.fm/lofi_high",
-      "logoUrl": "https://hunter.fm/favicon.ico",
-      "genre": "lo-fi,lofi",
-      "country": "Brasil",
-      "state": "",
       "city": ""
     },
     {
@@ -30,66 +21,12 @@
       "city": ""
     },
     {
-      "name": "Hunter.FM - O Canal Master",
-      "streamUrl": "https://live.hunter.fm/master_normal",
-      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
-      "genre": "",
+      "name": "97 FM Natal",
+      "streamUrl": "https://azevedo.jmvstream.com/stream",
+      "logoUrl": "",
+      "genre": "Pisadinha",
       "country": "Brasil",
-      "state": "São Paulo",
-      "city": ""
-    },
-    {
-      "name": "Hunter.FM Lo-Fi",
-      "streamUrl": "https://live.hunter.fm/lofi_normal",
-      "logoUrl": "https://cdn.hunter.fm/image/thumb/station/lo-fi-third/400x400ht.jpg",
-      "genre": "lofi",
-      "country": "Brasil",
-      "state": "Brasília",
-      "city": ""
-    },
-    {
-      "name": "Hunter FM - Hits Brasil",
-      "streamUrl": "https://live.hunter.fm/hitsbrasil_normal",
-      "logoUrl": "https://hunter.fm/_nuxt/icons/icon_64x64.5c2fd0.png",
-      "genre": "sertaneja,sertanejo",
-      "country": "Brasil",
-      "state": "Distrito Federal",
-      "city": ""
-    },
-    {
-      "name": "Hunter.FM - O Canal Pop",
-      "streamUrl": "https://live.hunter.fm/pop_normal",
-      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
-      "genre": "",
-      "country": "Brasil",
-      "state": "São Paulo",
-      "city": ""
-    },
-    {
-      "name": "Hunter.FM - O Canal MPB",
-      "streamUrl": "https://live.hunter.fm/mpb_normal",
-      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
-      "genre": "",
-      "country": "Brasil",
-      "state": "São Paulo",
-      "city": ""
-    },
-    {
-      "name": "Rádio FM O Dia 99.7 FM",
-      "streamUrl": "https://wz7.servidoresbrasil.com:8274/stream",
-      "logoUrl": "https://img.radios.com.br/radio/lg/radio229211_1706128532.jpeg",
-      "genre": "Pagode",
-      "country": "Brasil",
-      "state": "Rio de Janeiro",
-      "city": ""
-    },
-    {
-      "name": "BH FM 102,1 MHz ZYC690 (Belo Horizonte - MG)",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac",
-      "logoUrl": "https://i.postimg.cc/ncT9hqH6/04008003142.png",
-      "genre": "Pagode",
-      "country": "Brasil",
-      "state": "Minas Gerais",
+      "state": "Rio Grande do Norte",
       "city": ""
     },
     {
@@ -102,6 +39,123 @@
       "city": "Salvador"
     },
     {
+      "name": "Rádio 98 FM Montes Claros 98.9",
+      "streamUrl": "https://str1.streamhostpg.com.br:8046/stream",
+      "logoUrl": "https://www.montesclaros.com/imagens19/logo_98.png",
+      "genre": "Popular / Hits",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Montes Claros"
+    },
+    {
+      "name": "Hunter.fm O Canal Lo-Fi (High)",
+      "streamUrl": "https://live.hunter.fm/lofi_high",
+      "logoUrl": "https://hunter.fm/favicon.ico",
+      "genre": "lo-fi,lofi",
+      "country": "Brasil",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "Hunter FM - Hits Brasil",
+      "streamUrl": "https://live.hunter.fm/hitsbrasil_normal",
+      "logoUrl": "https://hunter.fm/_nuxt/icons/icon_64x64.5c2fd0.png",
+      "genre": "sertaneja,sertanejo",
+      "country": "Brasil",
+      "state": "Distrito Federal",
+      "city": ""
+    },
+    {
+      "name": "Rádio FM O Dia 99.7 FM",
+      "streamUrl": "https://wz7.servidoresbrasil.com:8274/stream",
+      "logoUrl": "https://img.radios.com.br/radio/lg/radio229211_1706128532.jpeg",
+      "genre": "Pagode",
+      "country": "Brasil",
+      "state": "Rio de Janeiro",
+      "city": ""
+    },
+    {
+      "name": "Rainha 89fm",
+      "streamUrl": "https://streaming.livespanel.com:8990/stream",
+      "logoUrl": "",
+      "genre": "Forró / Pisadinha",
+      "country": "Brasil",
+      "state": "Bahia",
+      "city": ""
+    },
+    {
+      "name": "Rádio Itapoan FM 97.5",
+      "streamUrl": "https://cast.radiu.live:9300/stream",
+      "logoUrl": "",
+      "genre": "Axé / Pagode",
+      "country": "Brasil",
+      "state": "Bahia",
+      "city": "Salvador"
+    },
+    {
+      "name": "Rádio Itatiaia Montes Claros 100.3",
+      "streamUrl": "https://9607.brasilstream.com.br/stream?origem=site_oficial",
+      "logoUrl": "",
+      "genre": "Notícias / Esportes",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Montes Claros"
+    },
+    {
+      "name": "Hunter.FM - O Canal Master",
+      "streamUrl": "https://live.hunter.fm/master_normal",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Rádio 93.5 FM Montes Claros",
+      "streamUrl": "https://str1.streamhostpg.com.br:8048/stream",
+      "logoUrl": "",
+      "genre": "Popular / Sertaneja",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Montes Claros"
+    },
+    {
+      "name": "BH FM 102,1 MHz ZYC690 (Belo Horizonte - MG)",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac",
+      "logoUrl": "https://i.postimg.cc/ncT9hqH6/04008003142.png",
+      "genre": "Pagode",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": ""
+    },
+    {
+      "name": "Rádio Forró",
+      "streamUrl": "https://stm5.painelcast.com:7600/stream",
+      "logoUrl": "https://cordeiroplasticos.com.br/forro1.jpg",
+      "genre": "Forró / Pisadinha",
+      "country": "Brasil",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "Hunter.FM Lo-Fi",
+      "streamUrl": "https://live.hunter.fm/lofi_normal",
+      "logoUrl": "https://cdn.hunter.fm/image/thumb/station/lo-fi-third/400x400ht.jpg",
+      "genre": "lofi",
+      "country": "Brasil",
+      "state": "Brasília",
+      "city": ""
+    },
+    {
+      "name": "Rádio São Francisco de Assis - Montes Claros",
+      "streamUrl": "https://str1.streamhostpg.com.br:8050/stream",
+      "logoUrl": "",
+      "genre": "Sertaneja / Românticas",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Montes Claros"
+    },
+    {
       "name": "105 FM - SP",
       "streamUrl": "http://www.appradio.app:8010//live",
       "logoUrl": "",
@@ -111,12 +165,57 @@
       "city": ""
     },
     {
+      "name": "Rádio Biritiba Mirim",
+      "streamUrl": "https://stream-177.surfernetwork.com/tfyqrqasfngtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0ZnlxcnFhc2ZuZ3R2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ild5VWJTQUw1UUVtUC1yNmw0T2taVmciLCJpYXQiOjE3ODgyMzA2NDYsImV4cCI6MTc4ODIzMDcwNn0.j2UmQTCDmSdHjszzVEkgAROrbn8lIMWpt3YcFxPXdvg",
+      "logoUrl": "https://lh3.googleusercontent.com/sitesv/AA5AbUDPn9XGy-tfhOV_f8cdnBOz_cEKDPLVvglLz2zgdiH60udPAjpu7kZBY550hCPEFaYl7U6PvkBFpNjTCDzmCuefRAUg0rAoyhZ3OVkqulSWVUv8i7QlrT-CIx7vau0g3SIAZVPRa6VcRkj3v1CXSbcM62ztRmjktCG8lFIqHfDeYb6BnXFQ-HHv3eE=w16383",
+      "genre": "Forró / Pisadinha",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Hunter.FM - O Canal Pop",
+      "streamUrl": "https://live.hunter.fm/pop_normal",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Rádio Educadora Montes Claros 102.9",
+      "streamUrl": "https://8228.brasilstream.com.br/stream",
+      "logoUrl": "",
+      "genre": "Sertaneja / Popular",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Montes Claros"
+    },
+    {
       "name": "Sucesso FM 88,3",
       "streamUrl": "https://servidor36.brlogic.com:8300/live?1696916321806",
       "logoUrl": "https://public-rf-upload.minhawebradio.net/17549/program/7d841a5fa803032a7e8656166559739f.jpg",
       "genre": "Pagode",
       "country": "Brasil",
       "state": "Rio de Janeiro",
+      "city": ""
+    },
+    {
+      "name": "Rádio Zé Ramalho",
+      "streamUrl": "https://stream.zeno.fm/qnx6k0pfmxhvv",
+      "logoUrl": "https://images.zeno.fm/V26Zi7EX8kZaRMVig_dqTABYJdpEtshx8fpDSh9r3I4/rs:fill:152:152/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1FnZGY0clFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRElsc3FLNXdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc4NDY1NzI0MzAwMA",
+      "genre": "Forró / Pisadinha",
+      "country": "Brasil",
+      "state": "Paraiba",
+      "city": ""
+    },
+    {
+      "name": "Hunter.FM - O Canal MPB",
+      "streamUrl": "https://live.hunter.fm/mpb_normal",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "",
+      "country": "Brasil",
+      "state": "São Paulo",
       "city": ""
     },
     {
@@ -192,15 +291,6 @@
       "city": ""
     },
     {
-      "name": "Rádio Itapoan FM 97.5",
-      "streamUrl": "https://cast.radiu.live:9300/stream",
-      "logoUrl": "",
-      "genre": "Axé / Pagode",
-      "country": "Brasil",
-      "state": "Bahia",
-      "city": "Salvador"
-    },
-    {
       "name": "Rádio Unifev",
       "streamUrl": "https://servidor17-4.brlogic.com:7618/live?source=7250",
       "logoUrl": "",
@@ -208,96 +298,6 @@
       "country": "Brasil",
       "state": "São Paulo",
       "city": ""
-    },
-    {
-      "name": "97 FM Natal",
-      "streamUrl": "https://azevedo.jmvstream.com/stream",
-      "logoUrl": "",
-      "genre": "Pisadinha",
-      "country": "Brasil",
-      "state": "Rio Grande do Norte",
-      "city": ""
-    },
-    {
-      "name": "Rainha 89fm",
-      "streamUrl": "https://streaming.livespanel.com:8990/stream",
-      "logoUrl": "",
-      "genre": "Forró / Pisadinha",
-      "country": "Brasil",
-      "state": "Bahia",
-      "city": ""
-    },
-    {
-      "name": "Rádio Forró",
-      "streamUrl": "https://stm5.painelcast.com:7600/stream",
-      "logoUrl": "https://cordeiroplasticos.com.br/forro1.jpg",
-      "genre": "Forró / Pisadinha",
-      "country": "Brasil",
-      "state": "",
-      "city": ""
-    },
-    {
-      "name": "Rádio Biritiba Mirim",
-      "streamUrl": "https://stream-177.surfernetwork.com/tfyqrqasfngtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0ZnlxcnFhc2ZuZ3R2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ild5VWJTQUw1UUVtUC1yNmw0T2taVmciLCJpYXQiOjE3ODgyMzA2NDYsImV4cCI6MTc4ODIzMDcwNn0.j2UmQTCDmSdHjszzVEkgAROrbn8lIMWpt3YcFxPXdvg",
-      "logoUrl": "https://lh3.googleusercontent.com/sitesv/AA5AbUDPn9XGy-tfhOV_f8cdnBOz_cEKDPLVvglLz2zgdiH60udPAjpu7kZBY550hCPEFaYl7U6PvkBFpNjTCDzmCuefRAUg0rAoyhZ3OVkqulSWVUv8i7QlrT-CIx7vau0g3SIAZVPRa6VcRkj3v1CXSbcM62ztRmjktCG8lFIqHfDeYb6BnXFQ-HHv3eE=w16383",
-      "genre": "Forró / Pisadinha",
-      "country": "Brasil",
-      "state": "São Paulo",
-      "city": ""
-    },
-    {
-      "name": "Rádio Zé Ramalho",
-      "streamUrl": "https://stream.zeno.fm/qnx6k0pfmxhvv",
-      "logoUrl": "https://images.zeno.fm/V26Zi7EX8kZaRMVig_dqTABYJdpEtshx8fpDSh9r3I4/rs:fill:152:152/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1FnZGY0clFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRElsc3FLNXdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc4NDY1NzI0MzAwMA",
-      "genre": "Forró / Pisadinha",
-      "country": "Brasil",
-      "state": "Paraiba",
-      "city": ""
-    },
-    {
-      "name": "Rádio 98 FM Montes Claros 98.9",
-      "streamUrl": "https://str1.streamhostpg.com.br:8046/stream",
-      "logoUrl": "https://www.montesclaros.com/imagens19/logo_98.png",
-      "genre": "Popular / Hits",
-      "country": "Brasil",
-      "state": "Minas Gerais",
-      "city": "Montes Claros"
-    },
-    {
-      "name": "Rádio 93.5 FM Montes Claros",
-      "streamUrl": "https://str1.streamhostpg.com.br:8048/stream",
-      "logoUrl": "",
-      "genre": "Popular / Sertaneja",
-      "country": "Brasil",
-      "state": "Minas Gerais",
-      "city": "Montes Claros"
-    },
-    {
-      "name": "Rádio São Francisco de Assis - Montes Claros",
-      "streamUrl": "https://str1.streamhostpg.com.br:8050/stream",
-      "logoUrl": "",
-      "genre": "Sertaneja / Românticas",
-      "country": "Brasil",
-      "state": "Minas Gerais",
-      "city": "Montes Claros"
-    },
-    {
-      "name": "Rádio Itatiaia Montes Claros 100.3",
-      "streamUrl": "https://9607.brasilstream.com.br/stream?origem=site_oficial",
-      "logoUrl": "",
-      "genre": "Notícias / Esportes",
-      "country": "Brasil",
-      "state": "Minas Gerais",
-      "city": "Montes Claros"
-    },
-    {
-      "name": "Rádio Educadora Montes Claros 102.9",
-      "streamUrl": "https://8228.brasilstream.com.br/stream",
-      "logoUrl": "",
-      "genre": "Sertaneja / Popular",
-      "country": "Brasil",
-      "state": "Minas Gerais",
-      "city": "Montes Claros"
     }
   ],
   "rules": {
