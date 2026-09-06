@@ -298,6 +298,33 @@
       "country": "Brasil",
       "state": "São Paulo",
       "city": ""
+    },
+    {
+      "name": "Rádio Mix FM São Paulo",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
+      "logoUrl": "",
+      "genre": "Pop / Hits",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "São Paulo"
+    },
+    {
+      "name": "Rádio Mix FM Belo Horizonte",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_BH.mp3",
+      "logoUrl": "",
+      "genre": "Pop / Hits",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Belo Horizonte"
+    },
+    {
+      "name": "Rádio Mix FM 88.9 Juiz de Fora",
+      "streamUrl": "https://stream02.ouveai.com.br/8034/stream",
+      "logoUrl": "",
+      "genre": "Pop / Hits",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Juiz de Fora"
     }
   ],
   "rules": {
