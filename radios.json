@@ -280,6 +280,24 @@
       "country": "Brasil",
       "state": "Minas Gerais",
       "city": "Montes Claros"
+    },
+    {
+      "name": "Rádio Itatiaia Montes Claros 100.3",
+      "streamUrl": "https://9607.brasilstream.com.br/stream?origem=site_oficial",
+      "logoUrl": "",
+      "genre": "Notícias / Esportes",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Montes Claros"
+    },
+    {
+      "name": "Rádio Educadora Montes Claros 102.9",
+      "streamUrl": "https://8228.brasilstream.com.br/stream",
+      "logoUrl": "",
+      "genre": "Sertaneja / Popular",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Montes Claros"
     }
   ],
   "rules": {
