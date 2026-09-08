@@ -4,7 +4,7 @@
   "stations": [
     {
       "name": "Rádio Mix FM São Paulo",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULO.mp3",
       "logoUrl": "",
       "genre": "Pop / Hits",
       "country": "Brasil",
