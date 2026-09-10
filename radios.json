@@ -577,6 +577,51 @@
       "country": "Reino Unido",
       "state": "",
       "city": ""
+    },
+    {
+      "name": "89 Goiânia Rádio Rock",
+      "streamUrl": "https://ice.fabricahost.com.br/89aradiorockgo",
+      "logoUrl": "",
+      "genre": "Pop Rock / Rock",
+      "country": "Brasil",
+      "state": "",
+      "city": "Goiânia"
+    },
+    {
+      "name": "Ouro Verde FM Easy 105.5",
+      "streamUrl": "https://8522.brasilstream.com.br/stream",
+      "logoUrl": "",
+      "genre": "Pop Rock / Easy",
+      "country": "Brasil",
+      "state": "",
+      "city": "Campinas"
+    },
+    {
+      "name": "LOS40 Classic",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3",
+      "logoUrl": "",
+      "genre": "Pop Rock / Clássicos",
+      "country": "Espanha",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "Virgin Radio UK",
+      "streamUrl": "https://radio.virginradio.co.uk/stream",
+      "logoUrl": "",
+      "genre": "Pop Rock / Hits",
+      "country": "Reino Unido",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "RFM POP-ROCK",
+      "streamUrl": "https://stream.rfm.fr/rfm-wr10.aac",
+      "logoUrl": "",
+      "genre": "Pop Rock",
+      "country": "França",
+      "state": "",
+      "city": ""
     }
   ],
   "rules": {
