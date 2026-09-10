@@ -541,6 +541,42 @@
       "country": "Brasil",
       "state": "",
       "city": ""
+    },
+    {
+      "name": "Technolovers EDM",
+      "streamUrl": "https://stream.technolovers.fm/edm?ref=radiobrowser",
+      "logoUrl": "",
+      "genre": "EDM / Dance",
+      "country": "Alemanha",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "Capital Dance",
+      "streamUrl": "https://media-ssl.musicradio.com/CapitalDance",
+      "logoUrl": "",
+      "genre": "Dance / Hits",
+      "country": "Reino Unido",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "ElectroDanceWorld Radio",
+      "streamUrl": "http://stream.zeno.fm/s70bvdgqks8uv",
+      "logoUrl": "",
+      "genre": "Electro / Dance",
+      "country": "Espanha",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "KISS DANCE",
+      "streamUrl": "https://stream-kiss.hellorayo.co.uk/kissdance.aac?direct=true",
+      "logoUrl": "",
+      "genre": "Dance / Hits",
+      "country": "Reino Unido",
+      "state": "",
+      "city": ""
     }
   ],
   "rules": {
