@@ -433,6 +433,51 @@
       "country": "Brasil",
       "state": "Minas Gerais",
       "city": "Belo Horizonte"
+    },
+    {
+      "name": "Dance Wave!",
+      "streamUrl": "https://dancewave.online/dance.mp3",
+      "logoUrl": "",
+      "genre": "Dance / Eletrônica",
+      "country": "Hungria",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "Intense Radio",
+      "streamUrl": "https://secure.live-streams.nl/main",
+      "logoUrl": "",
+      "genre": "Dance / Eletrônica",
+      "country": "Países Baixos",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "Radio Ibiza",
+      "streamUrl": "http://wma08.fluidstream.net:5010/;stream.aac",
+      "logoUrl": "",
+      "genre": "House / Eletrônica",
+      "country": "Itália",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "Ibiza Global Radio",
+      "streamUrl": "http://ibizaglobalradio.streaming-pro.com:8024/",
+      "logoUrl": "",
+      "genre": "House / Eletrônica",
+      "country": "Espanha",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "Los 40 Dance",
+      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC",
+      "logoUrl": "",
+      "genre": "Dance / Eletrônica",
+      "country": "Espanha",
+      "state": "",
+      "city": ""
     }
   ],
   "rules": {
