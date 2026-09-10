@@ -478,6 +478,51 @@
       "country": "Espanha",
       "state": "",
       "city": ""
+    },
+    {
+      "name": "Frisky",
+      "streamUrl": "http://stream2.friskyradio.com/frisky_mp3_hi",
+      "logoUrl": "",
+      "genre": "House / Eletrônica",
+      "country": "Estados Unidos",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "Ibiza X Radio",
+      "streamUrl": "https://stream.radiojar.com/p1f2vpv37reuv",
+      "logoUrl": "",
+      "genre": "House / Eletrônica",
+      "country": "Espanha",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "Sunshine Live - Techno",
+      "streamUrl": "http://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/",
+      "logoUrl": "",
+      "genre": "Techno",
+      "country": "Alemanha",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "Armin van Buuren Radio",
+      "streamUrl": "https://radiorecord.hostingradio.ru/armin96.aacp",
+      "logoUrl": "",
+      "genre": "Trance / Eletrônica",
+      "country": "Rússia",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "SomaFM Space Station",
+      "streamUrl": "https://ice2.somafm.com/spacestation-128-aac",
+      "logoUrl": "",
+      "genre": "Ambient / Eletrônica",
+      "country": "Estados Unidos",
+      "state": "",
+      "city": ""
     }
   ],
   "rules": {
