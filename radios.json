@@ -379,6 +379,15 @@
       "country": "Bahamas",
       "state": "New Providence",
       "city": "Nassau"
+    },
+    {
+      "name": "Funk MTG",
+      "streamUrl": "https://stream.zeno.fm/orkv5rw4i2stv",
+      "logoUrl": "",
+      "genre": "Funk MTG",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Belo Horizonte"
     }
   ],
   "rules": {
