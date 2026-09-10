@@ -388,6 +388,51 @@
       "country": "Brasil",
       "state": "Minas Gerais",
       "city": "Belo Horizonte"
+    },
+    {
+      "name": "MTG Funk",
+      "streamUrl": "https://stream.zeno.fm/qx34f1dh4zhvv",
+      "logoUrl": "",
+      "genre": "Geral",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Belo Horizonte"
+    },
+    {
+      "name": "MTG Funk BH",
+      "streamUrl": "https://stream.zeno.fm/zfzhdpialb6tv",
+      "logoUrl": "",
+      "genre": "Funk BH",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Belo Horizonte"
+    },
+    {
+      "name": "Funk de BH - MTG",
+      "streamUrl": "https://stream.zeno.fm/om6aydczrxdvv",
+      "logoUrl": "",
+      "genre": "Funk BH",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Belo Horizonte"
+    },
+    {
+      "name": "FUNK MTG ErIcKCaPuDoBB",
+      "streamUrl": "https://stream.zeno.fm/30fhfh9yey8uv",
+      "logoUrl": "",
+      "genre": "Funk MTG",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Belo Horizonte"
+    },
+    {
+      "name": "MTG Funk E8DU",
+      "streamUrl": "https://stream.zeno.fm/68yzavztr23vv",
+      "logoUrl": "",
+      "genre": "Funk MTG",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Belo Horizonte"
     }
   ],
   "rules": {
