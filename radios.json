@@ -640,6 +640,15 @@
       "country": "Brasil",
       "state": "São Paulo",
       "city": ""
+    },
+    {
+      "name": "Piseiro 2.0",
+      "streamUrl": "https://stream.zeno.fm/uh7p2mkb86wtv",
+      "logoUrl": "",
+      "genre": "Piseiro / Pisadinha / Forró",
+      "country": "Brasil",
+      "state": "",
+      "city": ""
     }
   ],
   "rules": {
