@@ -631,6 +631,15 @@
       "country": "Brasil",
       "state": "",
       "city": ""
+    },
+    {
+      "name": "Hunter FM - Pisadinha",
+      "streamUrl": "https://live.hunter.fm/pisadinha_normal",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "Pisadinha / Piseiro",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
     }
   ],
   "rules": {
