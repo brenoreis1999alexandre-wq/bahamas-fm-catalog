@@ -21,10 +21,10 @@
       "city": ""
     },
     {
-      "name": "97 FM Natal",
+      "name": "97 FM Natal - Pisadinha",
       "streamUrl": "https://azevedo.jmvstream.com/stream",
       "logoUrl": "",
-      "genre": "Pisadinha",
+      "genre": "Pisadinha / Forró / Sertanejo",
       "country": "Brasil",
       "state": "Rio Grande do Norte",
       "city": ""
@@ -156,10 +156,10 @@
       "city": ""
     },
     {
-      "name": "Rádio Forró",
+      "name": "Rádio Forró - Pisadinha",
       "streamUrl": "https://stm5.painelcast.com:7600/stream",
       "logoUrl": "https://cordeiroplasticos.com.br/forro1.jpg",
-      "genre": "Forró / Pisadinha",
+      "genre": "Pisadinha / Forró",
       "country": "Brasil",
       "state": "",
       "city": ""
@@ -219,10 +219,10 @@
       "city": ""
     },
     {
-      "name": "Rádio Zé Ramalho",
+      "name": "Rádio Zé Ramalho - Pisadinha",
       "streamUrl": "https://stream.zeno.fm/qnx6k0pfmxhvv",
       "logoUrl": "https://images.zeno.fm/V26Zi7EX8kZaRMVig_dqTABYJdpEtshx8fpDSh9r3I4/rs:fill:152:152/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1FnZGY0clFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRElsc3FLNXdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc4NDY1NzI0MzAwMA",
-      "genre": "Forró / Pisadinha",
+      "genre": "Pisadinha / Forró / MPB",
       "country": "Brasil",
       "state": "Paraiba",
       "city": ""
@@ -620,6 +620,15 @@
       "logoUrl": "",
       "genre": "Pop Rock",
       "country": "França",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "Rádio Riacho FM - Pisadinha",
+      "streamUrl": "https://stm23.srvaudio.com.br:10974/stream",
+      "logoUrl": "",
+      "genre": "Pisadinha / Forró / Sertanejo",
+      "country": "Brasil",
       "state": "",
       "city": ""
     }
