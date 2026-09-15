@@ -201,10 +201,10 @@
       "city": ""
     },
     {
-      "name": "Hunter.FM - O Canal Pop",
+      "name": "Hunter FM - Pop",
       "streamUrl": "https://live.hunter.fm/pop_normal",
       "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
-      "genre": "",
+      "genre": "Pop / Hits",
       "country": "Brasil",
       "state": "São Paulo",
       "city": ""
