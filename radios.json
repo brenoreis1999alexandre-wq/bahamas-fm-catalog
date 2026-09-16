@@ -703,6 +703,24 @@
       "country": "Brasil",
       "state": "",
       "city": ""
+    },
+    {
+      "name": "Hunter FM - Nostalgia Pop2K",
+      "streamUrl": "https://live.hunter.fm/pop2k",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "Nostalgia / Pop 2000",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Hunter FM - Nostalgia Anos 80",
+      "streamUrl": "https://live.hunter.fm/80s",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "Nostalgia / Anos 80",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
     }
   ],
   "rules": {
