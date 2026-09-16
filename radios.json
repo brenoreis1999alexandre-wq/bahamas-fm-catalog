@@ -649,6 +649,15 @@
       "country": "Brasil",
       "state": "",
       "city": ""
+    },
+    {
+      "name": "Eternamente Funk Melody",
+      "streamUrl": "https://stream.zeno.fm/jwquqiqdvfcvv",
+      "logoUrl": "",
+      "genre": "Funk Melody / Funk Antigo",
+      "country": "Brasil",
+      "state": "Minas Gerais",
+      "city": "Belo Horizonte"
     }
   ],
   "rules": {
