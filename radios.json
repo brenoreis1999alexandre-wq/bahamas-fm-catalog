@@ -649,6 +649,15 @@
       "country": "Brasil",
       "state": "",
       "city": ""
+    },
+    {
+      "name": "Rádio 107.1 FM - Funk Antigo",
+      "streamUrl": "https://servidor25.brlogic.com:7024/live",
+      "logoUrl": "",
+      "genre": "Funk Antigo / Funk Melody / Charme",
+      "country": "Brasil",
+      "state": "",
+      "city": ""
     }
   ],
   "rules": {
