@@ -658,6 +658,15 @@
       "country": "Brasil",
       "state": "Minas Gerais",
       "city": "Belo Horizonte"
+    },
+    {
+      "name": "Hunter FM - Rock",
+      "streamUrl": "https://live.hunter.fm/rock",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "Rock / Pop Rock",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
     }
   ],
   "rules": {
