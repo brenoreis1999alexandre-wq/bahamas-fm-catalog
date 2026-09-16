@@ -667,6 +667,42 @@
       "country": "Brasil",
       "state": "São Paulo",
       "city": ""
+    },
+    {
+      "name": "MGT Clássicos Sertanejos",
+      "streamUrl": "https://cast.mgtradio.net/radio/8000/aac",
+      "logoUrl": "",
+      "genre": "Sertanejo Clássico / Modão",
+      "country": "Brasil",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "Rádio Buteco Sertanejo",
+      "streamUrl": "https://stream.zeno.fm/6kumndewqbruv",
+      "logoUrl": "",
+      "genre": "Sertanejo Raiz / Modão / Moda de Viola",
+      "country": "Brasil",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "Rádio Amigos do Sertanejo",
+      "streamUrl": "https://stm4.voxhd.com.br:7086/",
+      "logoUrl": "",
+      "genre": "Sertanejo Raiz / Modão",
+      "country": "Brasil",
+      "state": "",
+      "city": ""
+    },
+    {
+      "name": "Rádio Café Viola",
+      "streamUrl": "https://stm6.xcast.com.br:9328/;?1685284162874",
+      "logoUrl": "",
+      "genre": "Sertanejo Raiz / Moda de Viola",
+      "country": "Brasil",
+      "state": "",
+      "city": ""
     }
   ],
   "rules": {
