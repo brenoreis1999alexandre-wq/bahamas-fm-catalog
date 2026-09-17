@@ -12,15 +12,6 @@
       "city": "São Paulo"
     },
     {
-      "name": "Hunter FM - Pagode",
-      "streamUrl": "https://live.hunter.fm/pagode_normal",
-      "logoUrl": "https://hunter.fm/_nuxt/icons/icon_64x64.5c2fd0.png",
-      "genre": "pagode",
-      "country": "Brasil",
-      "state": "Distrito Federal",
-      "city": ""
-    },
-    {
       "name": "97 FM Natal - Pisadinha",
       "streamUrl": "https://azevedo.jmvstream.com/stream",
       "logoUrl": "",
@@ -57,15 +48,6 @@
       "city": "Montes Claros"
     },
     {
-      "name": "Hunter.FM - O Canal Sertanejo",
-      "streamUrl": "https://live.hunter.fm/sertanejo",
-      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
-      "genre": "",
-      "country": "Brasil",
-      "state": "São Paulo",
-      "city": ""
-    },
-    {
       "name": "Rádio Educadora Montes Claros 102.9",
       "streamUrl": "https://8228.brasilstream.com.br/stream",
       "logoUrl": "",
@@ -81,24 +63,6 @@
       "genre": "Pagode",
       "country": "Brasil",
       "state": "Rio de Janeiro",
-      "city": ""
-    },
-    {
-      "name": "Hunter.fm O Canal Lo-Fi (High)",
-      "streamUrl": "https://live.hunter.fm/lofi_high",
-      "logoUrl": "https://hunter.fm/favicon.ico",
-      "genre": "lo-fi,lofi",
-      "country": "Brasil",
-      "state": "",
-      "city": ""
-    },
-    {
-      "name": "Hunter FM - Hits Brasil",
-      "streamUrl": "https://live.hunter.fm/hitsbrasil_normal",
-      "logoUrl": "https://hunter.fm/_nuxt/icons/icon_64x64.5c2fd0.png",
-      "genre": "sertaneja,sertanejo",
-      "country": "Brasil",
-      "state": "Distrito Federal",
       "city": ""
     },
     {
@@ -129,15 +93,6 @@
       "city": "Montes Claros"
     },
     {
-      "name": "Hunter.FM - O Canal Master",
-      "streamUrl": "https://live.hunter.fm/master_normal",
-      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
-      "genre": "",
-      "country": "Brasil",
-      "state": "São Paulo",
-      "city": ""
-    },
-    {
       "name": "Rádio 93.5 FM Montes Claros",
       "streamUrl": "https://str1.streamhostpg.com.br:8048/stream",
       "logoUrl": "",
@@ -162,15 +117,6 @@
       "genre": "Pisadinha / Forró",
       "country": "Brasil",
       "state": "",
-      "city": ""
-    },
-    {
-      "name": "Hunter.FM Lo-Fi",
-      "streamUrl": "https://live.hunter.fm/lofi_normal",
-      "logoUrl": "https://cdn.hunter.fm/image/thumb/station/lo-fi-third/400x400ht.jpg",
-      "genre": "lofi",
-      "country": "Brasil",
-      "state": "Brasília",
       "city": ""
     },
     {
@@ -201,15 +147,6 @@
       "city": ""
     },
     {
-      "name": "Hunter FM - Pop",
-      "streamUrl": "https://live.hunter.fm/pop_normal",
-      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
-      "genre": "Pop / Hits",
-      "country": "Brasil",
-      "state": "São Paulo",
-      "city": ""
-    },
-    {
       "name": "Sucesso FM 88,3",
       "streamUrl": "https://servidor36.brlogic.com:8300/live?1696916321806",
       "logoUrl": "https://public-rf-upload.minhawebradio.net/17549/program/7d841a5fa803032a7e8656166559739f.jpg",
@@ -225,15 +162,6 @@
       "genre": "Pisadinha / Forró / MPB",
       "country": "Brasil",
       "state": "Paraiba",
-      "city": ""
-    },
-    {
-      "name": "Hunter.FM - O Canal MPB",
-      "streamUrl": "https://live.hunter.fm/mpb_normal",
-      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
-      "genre": "",
-      "country": "Brasil",
-      "state": "São Paulo",
       "city": ""
     },
     {
@@ -633,15 +561,6 @@
       "city": ""
     },
     {
-      "name": "Hunter FM - Pisadinha",
-      "streamUrl": "https://live.hunter.fm/pisadinha_normal",
-      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
-      "genre": "Pisadinha / Piseiro",
-      "country": "Brasil",
-      "state": "São Paulo",
-      "city": ""
-    },
-    {
       "name": "Piseiro 2.0",
       "streamUrl": "https://stream.zeno.fm/uh7p2mkb86wtv",
       "logoUrl": "",
@@ -658,15 +577,6 @@
       "country": "Brasil",
       "state": "Minas Gerais",
       "city": "Belo Horizonte"
-    },
-    {
-      "name": "Hunter FM - Rock",
-      "streamUrl": "https://live.hunter.fm/rock",
-      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
-      "genre": "Rock / Pop Rock",
-      "country": "Brasil",
-      "state": "São Paulo",
-      "city": ""
     },
     {
       "name": "MGT Clássicos Sertanejos",
@@ -705,6 +615,96 @@
       "city": ""
     },
     {
+      "name": "Hunter FM - Anos 80",
+      "streamUrl": "https://live.hunter.fm/80s",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "Nostalgia / Anos 80",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Hunter FM - Hits Brasil",
+      "streamUrl": "https://live.hunter.fm/hitsbrasil_normal",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "Hits Brasil / Pop",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Hunter FM - K-Pop",
+      "streamUrl": "https://live.hunter.fm/kpop_normal",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "K-Pop",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Hunter FM - Lo-Fi",
+      "streamUrl": "https://live.hunter.fm/lofi",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "Lo-Fi",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Hunter FM - Master",
+      "streamUrl": "https://live.hunter.fm/master_normal",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "Música",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Hunter FM - Modão Sertanejo",
+      "streamUrl": "https://live.hunter.fm/modasertaneja_normal",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "Sertanejo Raiz / Modão",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Hunter FM - MPB",
+      "streamUrl": "https://live.hunter.fm/mpb_normal",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "MPB",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Hunter FM - Pagode",
+      "streamUrl": "https://live.hunter.fm/pagode_normal",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "Pagode",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Hunter FM - Pisadinha",
+      "streamUrl": "https://live.hunter.fm/pisadinha_normal",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "Pisadinha / Piseiro",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Hunter FM - Pop",
+      "streamUrl": "https://live.hunter.fm/pop_normal",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "Pop / Hits",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
       "name": "Hunter FM - Nostalgia Pop2K",
       "streamUrl": "https://live.hunter.fm/pop2k",
       "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
@@ -714,10 +714,28 @@
       "city": ""
     },
     {
-      "name": "Hunter FM - Nostalgia Anos 80",
-      "streamUrl": "https://live.hunter.fm/80s",
+      "name": "Hunter FM - Rock",
+      "streamUrl": "https://live.hunter.fm/rock",
       "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
-      "genre": "Nostalgia / Anos 80",
+      "genre": "Rock / Pop Rock",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Hunter FM - Sertanejo",
+      "streamUrl": "https://live.hunter.fm/sertanejo",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "Sertanejo / Sertanejo Universitário",
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": ""
+    },
+    {
+      "name": "Hunter FM - Tropical",
+      "streamUrl": "https://live.hunter.fm/tropical_normal",
+      "logoUrl": "https://hunter.fm/images/icon-logo-default.png",
+      "genre": "Tropical House",
       "country": "Brasil",
       "state": "São Paulo",
       "city": ""
