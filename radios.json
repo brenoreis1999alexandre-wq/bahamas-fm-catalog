@@ -685,6 +685,15 @@
       "country": "Brasil",
       "state": "São Paulo",
       "city": ""
+    },
+    {
+      "name": "Funk Consciente",
+      "streamUrl": "https://stream.zeno.fm/dr6q15py6hhvv",
+      "logoUrl": "",
+      "genre": "Funk Antigo / Funk Consciente",
+      "country": "Brasil",
+      "state": "",
+      "city": ""
     }
   ],
   "rules": {
